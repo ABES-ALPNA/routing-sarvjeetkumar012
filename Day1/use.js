@@ -1,0 +1,5 @@
+const data=require("./index.js")
+console.log(data.sum(20,10))
+console.log(data.sub(20,10))
+console.log(data.mul(20,10))
+console.log(data.div(20,10))
